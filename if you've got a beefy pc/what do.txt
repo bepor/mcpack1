@@ -1,0 +1,6 @@
+basically theres just shaders here, copy the `shaderpacks` folder into the .minecraft folder, and run the game
+to activate the shaders, pres [ESC] click [OPTIONS], [VIDEO SETTINGS], [SHADERS], and select `SEUS-v11.0.zip`
+
+if the shaders are laggy go back to the shaders menu, then click [SHADER OPTIONS], then go to [ATMOSPHERIC], turn [VOLUMETRIC CLOUDS] and [HQ VOLUMETRIC CLOUDS] to OFF, and go back to [SHADER OPTIONS], click [ADVANCED GI SETTINGS], turn [GI ARTIFACT REDUCTION] OFF
+
+if its too dark, go back to shader options, click on [LIGHTING AND SHADOW OPTIONS] and turn [TORCH BRIGHTNESS] and [EXPOSURE MULTIPLIER] up.
